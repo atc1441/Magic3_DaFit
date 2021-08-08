@@ -6,3 +6,11 @@ Use the Demos with the D6Arduino you can find here:
 
 Here is a manual on how to use it:
 - https://youtu.be/3gjmEdEDJ5A
+
+
+### Additional fitting repos from me:
+https://github.com/atc1441/ATCwatch
+
+https://github.com/atc1441/DaFlasherFiles
+
+https://github.com/atc1441/ESP32_nRF52_SWD
