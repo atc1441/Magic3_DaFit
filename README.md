@@ -2,7 +2,8 @@
 Code repo for infos and demos on the DaFit Magic 3 Smartwatch
 
 ## Demos:
-- Magic3_Display_test_by_atc1441 = Minimal full buffer Display example
+- Magic3_Display_test_by_atc1441 = Minimal full buffer Display example Magic 3
+- Kospet_Rock_Display_test_by_atc1441 = Minimal full buffer Display example for Kospet Rock
 
 
 
