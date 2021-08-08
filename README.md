@@ -14,7 +14,7 @@ Here is a manual on how to use it:
 - https://youtu.be/3gjmEdEDJ5A
 
 
-### Additional fitting repos from me:
+### Additional fitting repos:
 https://github.com/atc1441/ATCwatch
 
 https://github.com/atc1441/DaFlasherFiles
