@@ -4,6 +4,9 @@ Code repo for infos and demos on the DaFit Magic 3 Smartwatch
 ## Demos:
 - Magic3_Display_test_by_atc1441 = Minimal full buffer Display example
 
+
+
+
 Use the Demos with the D6Arduino you can find here:
 - https://atcnetz.de/downloads/D6Arduino.rar
 
