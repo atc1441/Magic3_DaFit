@@ -27,6 +27,7 @@ void enable_spi(bool state) {
   }
 }
 
+
 void enable_workaround(NRF_SPIM_Type * spim, uint32_t ppi_channel, uint32_t gpiote_channel) {
   NRF_GPIOTE->CONFIG[gpiote_channel] = (GPIOTE_CONFIG_MODE_Event << GPIOTE_CONFIG_MODE_Pos) |
                                        (spim->PSEL.SCK << GPIOTE_CONFIG_PSEL_Pos) |
